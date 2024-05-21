@@ -25,6 +25,7 @@ const navLinks = [
     link: "/bookmarks",
   },
 ];
+
 const Sidebar = () => {
   return <div>Sidebar</div>;
 };
